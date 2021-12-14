@@ -1,8 +1,12 @@
-ServiceNow
 Cisco
+Forescout
+Hitachi Storage
+Oracle
+Proofpoint
+Radware
+SailPoint
+SAP
+ServiceNow
+Thales
 Varonis
 VMware Carbon Black
-SailPoint
-Proofpoint
-SAP
-Oracle
