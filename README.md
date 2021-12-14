@@ -13,4 +13,6 @@ This type of communication should no longer exist.
 <p>
 Your part in this endeavor can be to help promote to vendors the value of openly sharing security related information. If you utilize these products in your environment, please aid by bringing it up to them and voicing your concerns that in order to find security related information, you must login or maintain another account to access this data.
 <p>
-In a world around identity, it's not best practice to have so many accounts on so many platforms. Information is meant to be free.
+In a world around identity, it's not best practice to have so many accounts on so many platforms.
+<p>
+Information is meant to be free.
