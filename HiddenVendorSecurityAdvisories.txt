@@ -1,4 +1,3 @@
-Cisco
 Dilenia
 Forescout
 Hitachi Storage
