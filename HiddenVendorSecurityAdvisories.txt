@@ -13,4 +13,3 @@ ServiceNow
 Thales
 Varonis
 VMware Carbon Black
-Delinea
