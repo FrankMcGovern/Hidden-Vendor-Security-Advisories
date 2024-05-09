@@ -12,4 +12,3 @@ SAP
 ServiceNow
 Thales
 Varonis
-VMware Carbon Black
